@@ -16,7 +16,7 @@ public class OrdersTests {
     @Test
     public void testCreateOrder() {
         Order order = new Order();
-        order.setName("Test 4");
+        order.setName("Test 5");
         order.setPrice(300);
         Response response = new ApiEndpoints().addOrder(order);
         response.then().statusCode(200);

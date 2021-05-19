@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders tests","Test update existed order","SUCCESS","2021-05-19T23:41:00.192748+03:00[Europe/Kiev]","0.0","5.63"
+"Orders tests","Test create order","SUCCESS","2021-05-19T23:41:05.891831+03:00[Europe/Kiev]","0.0","0.57"
+"Orders tests","Test delete non existing order by id","SUCCESS","2021-05-19T23:41:06.469302+03:00[Europe/Kiev]","0.0","0.63"
+"Orders tests","Test update non existing order","SUCCESS","2021-05-19T23:41:07.101996+03:00[Europe/Kiev]","0.0","0.61"
+"Orders tests","Test get all orders","SUCCESS","2021-05-19T23:41:07.716393+03:00[Europe/Kiev]","0.0","0.44"
+"Orders tests","Test get order by id","SUCCESS","2021-05-19T23:41:08.161598+03:00[Europe/Kiev]","0.0","0.52"
+"Orders tests","Test delete existing order by id","SUCCESS","2021-05-19T23:41:08.684065+03:00[Europe/Kiev]","0.0","0.93"

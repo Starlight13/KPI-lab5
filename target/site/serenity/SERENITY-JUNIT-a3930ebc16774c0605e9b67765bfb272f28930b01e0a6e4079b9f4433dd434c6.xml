@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="OrdersTests" skipped="0" tests="8" time="9.8" timestamp="2021-05-19 11:41:00"><testcase classname="OrdersTests" name="Test update existed order"/><testcase classname="OrdersTests" name="Test create order"/><testcase classname="OrdersTests" name="Test delete non existing order by id"/><testcase classname="OrdersTests" name="Test update non existing order"/><testcase classname="OrdersTests" name="Test get all orders"/><testcase classname="OrdersTests" name="Test get order by id"/><testcase classname="OrdersTests" name="Test delete existing order by id"/><testcase classname="OrdersTests" name="Test delete non existing order by id fail with error"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;404&gt;.
+
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)
+OrdersTests.testDeleteNonExistingOrderByIdFailWithError(OrdersTests.java:80)
+</system-err></testcase></testsuite>
