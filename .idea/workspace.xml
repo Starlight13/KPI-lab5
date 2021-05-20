@@ -20,7 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9441191c-acf2-4ad7-9efa-e6e42482788a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7Testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/3f384c87a208cbb82a8e52868d5707c478d279a7f75979158a1d2f41e3dbf736.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/3f384c87a208cbb82a8e52868d5707c478d279a7f75979158a1d2f41e3dbf736.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4302463b8ea9d25db872a51dcaa06fd5d5dccdb55aca0200767fd7dcc2f9b06c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4302463b8ea9d25db872a51dcaa06fd5d5dccdb55aca0200767fd7dcc2f9b06c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5138f897269f20a868867bc483a104833a1d191711555d05edc1d91445d6d830.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5138f897269f20a868867bc483a104833a1d191711555d05edc1d91445d6d830.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/62a87e339569991d02e097ebb856c1a5882004ad30ccca8b0ec6a09d7f77b79b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/62a87e339569991d02e097ebb856c1a5882004ad30ccca8b0ec6a09d7f77b79b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c6c78191be5ee27631b700b87e2383620423fcea5c169cedbf6e9b72bc7d714b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c6c78191be5ee27631b700b87e2383620423fcea5c169cedbf6e9b72bc7d714b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OrdersTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OrdersTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +65,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="2" />
     <property name="settings.editor.selected.configurable" value="Bytecode Indices" />
   </component>
@@ -57,7 +79,7 @@
   </component>
   <component name="RunManager">
     <configuration name="OrdersTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab5Testing" />
+      <module name="Lab7Testing" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="OrdersTests" />
       <option name="TEST_OBJECT" value="class" />
@@ -110,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1621451682645</updated>
       <workItem from="1621451703293" duration="534000" />
-      <workItem from="1621453948661" duration="1868000" />
+      <workItem from="1621453948661" duration="3105000" />
+      <workItem from="1621488393824" duration="746000" />
     </task>
     <servers />
   </component>
@@ -127,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1621456905321">
@@ -149,5 +173,9 @@
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1621456290288" />
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.25.1440.814@0.25.1440.814" timestamp="1621456905320" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1621495214117">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1621495214117" />
   </component>
 </project>
